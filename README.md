@@ -45,7 +45,7 @@ If you find this work useful, please cite:
 ```bibtex
 @inproceedings{osawa2026preference,
   title  = {Preference Descriptions for Dynamic Personalization of Large Language Models},
-  author = {Osawa, Naofumi},
+  author = {Osawa Naofumi},
   year   = {2026},
   note   = {PerFM Workshop at AAAI 2026 (Non-archival)}
 }
