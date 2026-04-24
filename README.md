@@ -29,9 +29,12 @@ experiments using public datasets demonstrate that our approach improves
 preference alignment compared to a non-personalized model and achieves dynamic
 optimization over time.
 
+## Presented Poster
+-   [**Poster**](./poster/poster.pdf)
+
 
 ## Paper
-- **PDF**: [paper/preference_descriptions_llm.pdf](./paper/Preference%20Descriptions%20for%20Dynamic%20Personalization%20of%20Large%20Language%20Models.pdf)
+- [**Paper**](./paper/Preference%20Descriptions%20for%20Dynamic%20Personalization%20of%20Large%20Language%20Models.pdf)
 - **Venue**: PerFM @ AAAI 2026 (Non-archival workshop)  
   https://personalizedllm.github.io/events/perfm-aaai26/
 
