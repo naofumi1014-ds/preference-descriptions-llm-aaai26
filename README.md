@@ -47,10 +47,13 @@ If you find this work useful, please cite:
 
 ```bibtex
 @inproceedings{osawa2026preference,
-  title  = {Preference Descriptions for Dynamic Personalization of Large Language Models},
-  author = {Osawa Naofumi},
-  year   = {2026},
-  note   = {PerFM Workshop at AAAI 2026 (Non-archival)}
+  title     = {Preference Descriptions for Dynamic Personalization of Large Language Models},
+  author    = {Naofumi Osawa},
+  booktitle = {Proceedings of the AAAI 2026 Workshop on Personalization in the Era of Large Foundation Models (PerFM)},
+  year      = {2026},
+  address   = {Singapore},
+  note      = {Non-archival workshop paper},
+  url       = {https://github.com/naofumi1014-ds/preference-descriptions-llm-aaai26/blob/main/paper/Preference%20Descriptions%20for%20Dynamic%20Personalization%20of%20Large%20Language%20Models.pdf}
 }
 ```
 
